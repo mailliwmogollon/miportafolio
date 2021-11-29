@@ -8,7 +8,7 @@
 
 .menu ul a {
     text-decoration: none;
-    color: white;
+    color: var(--purple);
     font: var(--button);
     text-transform: uppercase;
 }
