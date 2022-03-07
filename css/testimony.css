@@ -1,6 +1,4 @@
-.testimony {
 
-}
 
 .testimony-description {
     display: flex;
@@ -22,6 +20,7 @@
     margin-inline-end: 4px;
 }
 
+
 @media screen and (min-width: 768px) {
     .testimony {
         display: flex;
@@ -32,7 +31,7 @@
         flex: 1;
     }
 
-    .testimony:nth-child(odd) .testimony-image {
+    .testimony:nth-child(odd) .testimony-image  {
         order: 2;
         flex: 1;
         text-align: center;
