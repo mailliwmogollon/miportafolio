@@ -23,8 +23,9 @@ gap: 16px;
     font: var(--headline5);
     display: block;
 }
-.hero-social {
+.social {
     padding-block-end: 24px;
+    
 }
 .hero {
     padding-block-start: 16px;
