@@ -5,6 +5,7 @@
 @import "./menu.css";
 @import "./mensajes.css";
 @import "./testimony.css";
+@import "./footer.css";
 :root {
     --purple: #310A90;
     --green: #42E2B8;
